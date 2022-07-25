@@ -1,4 +1,4 @@
-#sudo apt-get install python3-libtorrent
+#sudo apt-get install python3-libtorrent randeer Lalanga
 
 import libtorrent as lt
 import time
